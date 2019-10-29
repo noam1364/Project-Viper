@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  Boolean.cpp
+  IndentationException.cpp
+  Integer.cpp
+  InterpreterException.cpp
+  NameErrorException.cpp
+  Parser.cpp
+c:\workspaces\c++ workspace\project viper\project viper\parser.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\workspaces\c++ workspace\project viper\project viper\parser.cpp(293): warning C4018: '>': signed/unsigned mismatch
+c:\workspaces\c++ workspace\project viper\project viper\parser.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\workspaces\c++ workspace\project viper\project viper\parser.cpp(363): warning C4018: '<': signed/unsigned mismatch
+  ProjectViper.cpp
+  PythonList.cpp
+  Sequence.cpp
+  String.cpp
+  SyntaxException.cpp
+  Type.cpp
+  UnknownSymbolException.cpp
+  Void.cpp
+  Generating Code...
+c:\workspaces\c++ workspace\project viper\project viper\parser.cpp(267): warning C4715: 'Parser::isLegalVarName': not all control paths return a value
+  Project Viper.vcxproj -> C:\Workspaces\C++ workspace\Project Viper\Debug\Project Viper.exe
